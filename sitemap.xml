@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lingyejun.com/about/index.html</loc>
+    
+    <lastmod>2018-03-08T15:48:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lingyejun.com/2018/03/08/404-Not-Found-%E6%8E%A2%E7%A7%98Nginx%E8%BD%AC%E5%8F%91%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B/</loc>
     
     <lastmod>2018-03-08T13:57:03.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://lingyejun.com/demo/index.html</loc>
     
     <lastmod>2018-03-07T15:16:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lingyejun.com/about/index.html</loc>
-    
-    <lastmod>2018-03-07T14:17:55.000Z</lastmod>
     
   </url>
   
